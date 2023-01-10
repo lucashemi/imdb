@@ -1,0 +1,24 @@
+body {
+    background-color: #111;
+}
+
+.title {
+    background-color: gold;
+    color: #000;
+    margin: 0.5em auto;
+    font-weight: 700;
+    max-width: 3.5em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.content {
+    display: flex;
+    margin: 2em;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 1em;
+}
